@@ -1,6 +1,10 @@
 *::before, *::after {
     -webkit-box-sizing: border-box;
     box-sizing: border-box; }
+
+  .container {
+    max-width: 425px;  
+  }
   
   .card {
     flex: 1 1 50%;
